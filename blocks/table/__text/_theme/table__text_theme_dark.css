@@ -1,0 +1,6 @@
+.table__text_theme_dark {
+  position: relative;
+  z-index: 1;
+  margin: 20px 0 0;
+  color: white;
+}
